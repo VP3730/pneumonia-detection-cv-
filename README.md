@@ -14,6 +14,8 @@ The goal of this project is to accurately classify chest X-ray images into one o
 * Class 1: Pneumonia Type 1
 * Class 2:Pneumonia Type 2
 
+
+
  📂 Project Structure
 pneumonia-detection-cv/
 │
@@ -29,6 +31,8 @@ pneumonia-detection-cv/
 ├── models/              # Saved SVM models will be generated here
 ├── requirements.txt     # Python dependencies
 └── .gitignore
+
+
 
 ⚙️ Environment Setup
 1. Prerequisites
